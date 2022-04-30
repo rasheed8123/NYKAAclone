@@ -31,7 +31,9 @@ Slack
 
 Zoom
 
-Tech Stack
+___
+
+==>Tech Stack
 
 HTML
 
@@ -54,8 +56,8 @@ And Our Minds😜
 We have tried our best to make the most important functionalities of the website and limited some of the pages to static due to the time constraint we had.
 You can go through the small tour of our project by clicking on the link below. monumental-pixie-3a3341.netlify.app/
 
-<img src="https://images-static.nykaa.com/uploads/110b76e6-cb6b-4d1b-8124-a6e69520014e.jpg?tr=w-1200,cm-pad_resize">
-<img src="https://images-static.nykaa.com/uploads/b21e5cd7-e5dc-4db4-88e6-12b344b06c2a.jpg?tr=w-1200,cm-pad_resize">
-<img src="https://images-static.nykaa.com/uploads/d3f7f13c-7f65-454e-8a94-bfc259dfbc20.gif?tr=w-1200,cm-pad_resize">
+<img src="https://camo.githubusercontent.com/be0ed5287a821e3ca802ebff5bd50221dca9c304fd1946a96ad9e0561e02fa31/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313030302f312a5a4d46784b4438755f64625a6966435761314c5f58672e706e67">
+<img src="https://camo.githubusercontent.com/24474648a3642c281d2731ca40f30bcaff098dda00069ea471d2c2cd69696363/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313030302f312a2d456779764575566d725032686d58715771573076672e706e67">
+<img src="https://camo.githubusercontent.com/5524ba5d8ac22842d1eb1efdcbad2927561051a9844806433989158bbfab9a46/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313030302f312a63626961586e794267584f6e764e304e42386c3648672e706e67">
 
 KEEP CALM WE WILL BE BACK WITH A BANG UNTIL THEN GOOD BYE ✌️
